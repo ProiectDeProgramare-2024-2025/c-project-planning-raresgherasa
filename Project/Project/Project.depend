@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1749037044 source:c:\users\r_hor\onedrive\desktop\infomatrix\project\src\leaderboard.cpp
+	"Leaderboard.h"
+	"Utils.h"
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1749037044 c:\users\r_hor\onedrive\desktop\infomatrix\project\include\leaderboard.h
+	"Player.h"
+	<vector>
+
+1749037044 c:\users\r_hor\onedrive\desktop\infomatrix\project\include\player.h
+	<string>
+
+1749037044 c:\users\r_hor\onedrive\desktop\infomatrix\project\include\utils.h
+	<string>
+	<limits>
+
+1749037044 source:c:\users\r_hor\onedrive\desktop\infomatrix\project\src\player.cpp
+	"Player.h"
+
+1749037044 source:c:\users\r_hor\onedrive\desktop\infomatrix\project\src\question.cpp
+	"Question.h"
+
+1749037044 c:\users\r_hor\onedrive\desktop\infomatrix\project\include\question.h
+	<string>
+	<vector>
+
+1749037044 source:c:\users\r_hor\onedrive\desktop\infomatrix\project\src\utils.cpp
+	"Utils.h"
+	<iostream>
+	<cctype>
+
+1749037094 source:c:\users\r_hor\onedrive\desktop\infomatrix\project\main.cpp
+	"Game.h"
+	"Utils.h"
+	<iostream>
+
+1749037044 c:\users\r_hor\onedrive\desktop\infomatrix\project\include\game.h
+	"Question.h"
+	"Leaderboard.h"
+	<vector>
+	<random>
+
+1749037112 source:c:\users\r_hor\onedrive\desktop\infomatrix\project\src\game.cpp
+	"Game.h"
+	"Utils.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	<iomanip>
+
+1749037094 source:c:\users\r_hor\onedrive\desktop\project\project\main.cpp
+	"Game.h"
+	"Utils.h"
+	<iostream>
+
+1749037044 c:\users\r_hor\onedrive\desktop\project\project\include\game.h
+	"Question.h"
+	"Leaderboard.h"
+	<vector>
+	<random>
+
+1749037044 c:\users\r_hor\onedrive\desktop\project\project\include\question.h
+	<string>
+	<vector>
+
+1749037044 c:\users\r_hor\onedrive\desktop\project\project\include\leaderboard.h
+	"Player.h"
+	<vector>
+
+1749037044 c:\users\r_hor\onedrive\desktop\project\project\include\player.h
+	<string>
+
+1749037044 c:\users\r_hor\onedrive\desktop\project\project\include\utils.h
+	<string>
+	<limits>
+
+1749037112 source:c:\users\r_hor\onedrive\desktop\project\project\src\game.cpp
+	"Game.h"
+	"Utils.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	<iomanip>
+
+1749037044 source:c:\users\r_hor\onedrive\desktop\project\project\src\leaderboard.cpp
+	"Leaderboard.h"
+	"Utils.h"
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1749037044 source:c:\users\r_hor\onedrive\desktop\project\project\src\player.cpp
+	"Player.h"
+
+1749037044 source:c:\users\r_hor\onedrive\desktop\project\project\src\question.cpp
+	"Question.h"
+
+1749037044 source:c:\users\r_hor\onedrive\desktop\project\project\src\utils.cpp
+	"Utils.h"
+	<iostream>
+	<cctype>
+
